@@ -5,32 +5,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d03d5078-6bce-4400-b7b2-7156507164a9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/finpro/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/finpro/browserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/finpro/browserFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/finpro/driverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/finpro/driverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/finpro/keyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/finpro/keyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/finpro/screenshotFileType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/finpro/screenshotFileType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/finpro/pages/loginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/finpro/pages/loginPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2bP5UVQEDZ2A4KEi8XHXqP5P9lc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.testRunner.executor": "Debug",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Dei Programming/Bootcamp/SYNRGY6/Final Project/Web/final-project/src/main/resources",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dei Programming\Bootcamp\SYNRGY6\Final Project\Web\final-project\src\main\resources" />
+      <recent name="D:\Dei Programming\Bootcamp\SYNRGY6\Final Project\Web\final-project\src\test\java\com\finpro\features" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.finpro.runners" />
+      <recent name="com.finpro" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-249ae16d76d6-a618e4d4" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

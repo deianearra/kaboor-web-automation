@@ -1,2 +1,7 @@
-package com.finpro;public class screenshotFileType {
+package com.finpro;
+
+public enum screenshotFileType {
+    PNG,
+    JPG,
+    JPEG
 }
